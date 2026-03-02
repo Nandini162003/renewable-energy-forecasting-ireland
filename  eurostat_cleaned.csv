@@ -1,0 +1,1248 @@
+year,country,energy_balance,value
+2014,Albania,Available for final consumption,2151.923
+2015,Albania,Available for final consumption,2044.087
+2016,Albania,Available for final consumption,2006.921
+2017,Albania,Available for final consumption,2117.683
+2018,Albania,Available for final consumption,2151.989
+2019,Albania,Available for final consumption,2101.42
+2020,Albania,Available for final consumption,1988.835
+2021,Albania,Available for final consumption,2053.073
+2022,Albania,Available for final consumption,1994.774
+2023,Albania,Available for final consumption,1944.418
+2014,Austria,Available for final consumption,26642.594
+2015,Austria,Available for final consumption,27278.875
+2016,Austria,Available for final consumption,27964.856
+2017,Austria,Available for final consumption,28186.935
+2018,Austria,Available for final consumption,27892.29
+2019,Austria,Available for final consumption,28339.587
+2020,Austria,Available for final consumption,26953.347
+2021,Austria,Available for final consumption,28564.123
+2022,Austria,Available for final consumption,26771.767
+2023,Austria,Available for final consumption,25581.206
+2014,Bosnia and Herzegovina,Available for final consumption,3257.588
+2015,Bosnia and Herzegovina,Available for final consumption,3477.804
+2016,Bosnia and Herzegovina,Available for final consumption,3622.705
+2017,Bosnia and Herzegovina,Available for final consumption,3565.146
+2018,Bosnia and Herzegovina,Available for final consumption,4311.445
+2019,Bosnia and Herzegovina,Available for final consumption,4294.325
+2020,Bosnia and Herzegovina,Available for final consumption,4129.598
+2021,Bosnia and Herzegovina,Available for final consumption,4396.554
+2022,Bosnia and Herzegovina,Available for final consumption,4384.844
+2014,Belgium,Available for final consumption,39727.766
+2015,Belgium,Available for final consumption,40974.804
+2016,Belgium,Available for final consumption,40922.137
+2017,Belgium,Available for final consumption,40674.496
+2018,Belgium,Available for final consumption,41122.603
+2019,Belgium,Available for final consumption,40118.065
+2020,Belgium,Available for final consumption,38240.248
+2021,Belgium,Available for final consumption,40971.037
+2022,Belgium,Available for final consumption,37096.063
+2023,Belgium,Available for final consumption,36558.917
+2014,Bulgaria,Available for final consumption,9495.222
+2015,Bulgaria,Available for final consumption,10065.15
+2016,Bulgaria,Available for final consumption,10039.888
+2017,Bulgaria,Available for final consumption,10269.856
+2018,Bulgaria,Available for final consumption,10381.904
+2019,Bulgaria,Available for final consumption,10151.357
+2020,Bulgaria,Available for final consumption,10183.195
+2021,Bulgaria,Available for final consumption,10823.27
+2022,Bulgaria,Available for final consumption,10264.485
+2023,Bulgaria,Available for final consumption,9903.322
+2014,Cyprus,Available for final consumption,1410.442
+2015,Cyprus,Available for final consumption,1437.817
+2016,Cyprus,Available for final consumption,1513.183
+2017,Cyprus,Available for final consumption,1590.235
+2018,Cyprus,Available for final consumption,1634.286
+2019,Cyprus,Available for final consumption,1663.13
+2020,Cyprus,Available for final consumption,1568.352
+2021,Cyprus,Available for final consumption,1622.706
+2022,Cyprus,Available for final consumption,1669.537
+2023,Cyprus,Available for final consumption,1682.805
+2014,Czechia,Available for final consumption,25236.72
+2015,Czechia,Available for final consumption,25906.999
+2016,Czechia,Available for final consumption,25881.45
+2017,Czechia,Available for final consumption,27345.69
+2018,Czechia,Available for final consumption,27163.345
+2019,Czechia,Available for final consumption,27151.005
+2020,Czechia,Available for final consumption,26112.484
+2021,Czechia,Available for final consumption,28249.922
+2022,Czechia,Available for final consumption,27183.058
+2023,Czechia,Available for final consumption,25301.714
+2014,Germany,Available for final consumption,218966.961
+2015,Germany,Available for final consumption,220828.704
+2016,Germany,Available for final consumption,223485.083
+2017,Germany,Available for final consumption,228672.699
+2018,Germany,Available for final consumption,224061.003
+2019,Germany,Available for final consumption,225460.935
+2020,Germany,Available for final consumption,214491.428
+2021,Germany,Available for final consumption,219164.864
+2022,Germany,Available for final consumption,210746.446
+2023,Germany,Available for final consumption,194102.844
+2014,Denmark,Available for final consumption,13314.013
+2015,Denmark,Available for final consumption,13720.263
+2016,Denmark,Available for final consumption,14136.625
+2017,Denmark,Available for final consumption,14393.341
+2018,Denmark,Available for final consumption,14418.877
+2019,Denmark,Available for final consumption,14279.661
+2020,Denmark,Available for final consumption,13561.322
+2021,Denmark,Available for final consumption,14008.702
+2022,Denmark,Available for final consumption,13184.222
+2023,Denmark,Available for final consumption,13011.499
+2014,Estonia,Available for final consumption,2814.422
+2015,Estonia,Available for final consumption,2451.773
+2016,Estonia,Available for final consumption,3341.331
+2017,Estonia,Available for final consumption,3053.725
+2018,Estonia,Available for final consumption,2963.18
+2019,Estonia,Available for final consumption,2965.079
+2020,Estonia,Available for final consumption,2955.812
+2021,Estonia,Available for final consumption,2949.449
+2022,Estonia,Available for final consumption,2860.786
+2023,Estonia,Available for final consumption,2625.71
+2014,Greece,Available for final consumption,15694.015
+2015,Greece,Available for final consumption,16546.162
+2016,Greece,Available for final consumption,16871.347
+2017,Greece,Available for final consumption,16676.14
+2018,Greece,Available for final consumption,15797.251
+2019,Greece,Available for final consumption,16403.85
+2020,Greece,Available for final consumption,14545.707
+2021,Greece,Available for final consumption,14990.137
+2022,Greece,Available for final consumption,15606.261
+2023,Greece,Available for final consumption,15160.023
+2014,Spain,Available for final consumption,77407.781
+2015,Spain,Available for final consumption,79713.02
+2016,Spain,Available for final consumption,82151.026
+2017,Spain,Available for final consumption,86137.132
+2018,Spain,Available for final consumption,87967.519
+2019,Spain,Available for final consumption,86979.964
+2020,Spain,Available for final consumption,78544.757
+2021,Spain,Available for final consumption,84613.934
+2022,Spain,Available for final consumption,82949.347
+2023,Spain,Available for final consumption,82253.106
+2014,European Union - 27 countries (from 2020),Available for final consumption,978244.34
+2015,European Union - 27 countries (from 2020),Available for final consumption,995381.7
+2016,European Union - 27 countries (from 2020),Available for final consumption,1014833.62
+2017,European Union - 27 countries (from 2020),Available for final consumption,1041152.954
+2018,European Union - 27 countries (from 2020),Available for final consumption,1040220.891
+2019,European Union - 27 countries (from 2020),Available for final consumption,1033816.115
+2020,European Union - 27 countries (from 2020),Available for final consumption,976137.22
+2021,European Union - 27 countries (from 2020),Available for final consumption,1030207.459
+2022,European Union - 27 countries (from 2020),Available for final consumption,975288.716
+2023,European Union - 27 countries (from 2020),Available for final consumption,942187.24
+2014,Finland,Available for final consumption,25167.909
+2015,Finland,Available for final consumption,24057.468
+2016,Finland,Available for final consumption,25141.874
+2017,Finland,Available for final consumption,25965.142
+2018,Finland,Available for final consumption,26357.591
+2019,Finland,Available for final consumption,25716.038
+2020,Finland,Available for final consumption,24703.93
+2021,Finland,Available for final consumption,25700.072
+2022,Finland,Available for final consumption,24284.424
+2023,Finland,Available for final consumption,24114.282
+2014,France,Available for final consumption,153916.848
+2015,France,Available for final consumption,157411.628
+2016,France,Available for final consumption,158492.989
+2017,France,Available for final consumption,158129.96
+2018,France,Available for final consumption,155681.442
+2019,France,Available for final consumption,155497.694
+2020,France,Available for final consumption,141139.938
+2021,France,Available for final consumption,152001.574
+2022,France,Available for final consumption,143146.894
+2023,France,Available for final consumption,140331.823
+2014,Georgia,Available for final consumption,3981.288
+2015,Georgia,Available for final consumption,4162.566
+2016,Georgia,Available for final consumption,4399.992
+2017,Georgia,Available for final consumption,4462.032
+2018,Georgia,Available for final consumption,4414.241
+2019,Georgia,Available for final consumption,4591.701
+2020,Georgia,Available for final consumption,4486.584
+2021,Georgia,Available for final consumption,4897.317
+2022,Georgia,Available for final consumption,5181.983
+2014,Croatia,Available for final consumption,6671.967
+2015,Croatia,Available for final consumption,7016.573
+2016,Croatia,Available for final consumption,7049.521
+2017,Croatia,Available for final consumption,7328.457
+2018,Croatia,Available for final consumption,7169.205
+2019,Croatia,Available for final consumption,7289.787
+2020,Croatia,Available for final consumption,6964.498
+2021,Croatia,Available for final consumption,7300.983
+2022,Croatia,Available for final consumption,6912.119
+2023,Croatia,Available for final consumption,7221.552
+2014,Hungary,Available for final consumption,17277.269
+2015,Hungary,Available for final consumption,18537.076
+2016,Hungary,Available for final consumption,18899.277
+2017,Hungary,Available for final consumption,19790.711
+2018,Hungary,Available for final consumption,19858.403
+2019,Hungary,Available for final consumption,19941.603
+2020,Hungary,Available for final consumption,19682.796
+2021,Hungary,Available for final consumption,21175.297
+2022,Hungary,Available for final consumption,19723.758
+2023,Hungary,Available for final consumption,18635.772
+2014,Ireland,Available for final consumption,10120.548
+2015,Ireland,Available for final consumption,10769.585
+2016,Ireland,Available for final consumption,11305.29
+2017,Ireland,Available for final consumption,11190.034
+2018,Ireland,Available for final consumption,11374.648
+2019,Ireland,Available for final consumption,11561.637
+2020,Ireland,Available for final consumption,11124.459
+2021,Ireland,Available for final consumption,11350.285
+2022,Ireland,Available for final consumption,11212.302
+2023,Ireland,Available for final consumption,11204.801
+2014,Iceland,Available for final consumption,2717.469
+2015,Iceland,Available for final consumption,2866.124
+2016,Iceland,Available for final consumption,2937.394
+2017,Iceland,Available for final consumption,3044.775
+2018,Iceland,Available for final consumption,3169.289
+2019,Iceland,Available for final consumption,3092.55
+2020,Iceland,Available for final consumption,3038.628
+2021,Iceland,Available for final consumption,3048.092
+2022,Iceland,Available for final consumption,3265.834
+2023,Iceland,Available for final consumption,3222.23
+2014,Italy,Available for final consumption,113957.89
+2015,Italy,Available for final consumption,117628.883
+2016,Italy,Available for final consumption,116754.218
+2017,Italy,Available for final consumption,121173.803
+2018,Italy,Available for final consumption,119828.284
+2019,Italy,Available for final consumption,118662.685
+2020,Italy,Available for final consumption,109277.762
+2021,Italy,Available for final consumption,120352.245
+2022,Italy,Available for final consumption,112017.694
+2023,Italy,Available for final consumption,110016.668
+2014,Lithuania,Available for final consumption,5807.831
+2015,Lithuania,Available for final consumption,5895.52
+2016,Lithuania,Available for final consumption,6047.724
+2017,Lithuania,Available for final consumption,6434.108
+2018,Lithuania,Available for final consumption,6596.097
+2019,Lithuania,Available for final consumption,6645.976
+2020,Lithuania,Available for final consumption,6429.75
+2021,Lithuania,Available for final consumption,6680.085
+2022,Lithuania,Available for final consumption,6015.464
+2023,Lithuania,Available for final consumption,5995.467
+2014,Luxembourg,Available for final consumption,3631.791
+2015,Luxembourg,Available for final consumption,3566.742
+2016,Luxembourg,Available for final consumption,3568.444
+2017,Luxembourg,Available for final consumption,3641.419
+2018,Luxembourg,Available for final consumption,3776.528
+2019,Luxembourg,Available for final consumption,3831.007
+2020,Luxembourg,Available for final consumption,3297.64
+2021,Luxembourg,Available for final consumption,3470.22
+2022,Luxembourg,Available for final consumption,3051.484
+2023,Luxembourg,Available for final consumption,2949.515
+2014,Latvia,Available for final consumption,3878.454
+2015,Latvia,Available for final consumption,3785.857
+2016,Latvia,Available for final consumption,3784.047
+2017,Latvia,Available for final consumption,3949.588
+2018,Latvia,Available for final consumption,4106.978
+2019,Latvia,Available for final consumption,3967.834
+2020,Latvia,Available for final consumption,3874.602
+2021,Latvia,Available for final consumption,4066.82
+2022,Latvia,Available for final consumption,3877.504
+2023,Latvia,Available for final consumption,3854.991
+2014,Moldova,Available for final consumption,2344.118
+2015,Moldova,Available for final consumption,2393.517
+2016,Moldova,Available for final consumption,2494.42
+2017,Moldova,Available for final consumption,2626.08
+2018,Moldova,Available for final consumption,2749.308
+2019,Moldova,Available for final consumption,2637.391
+2020,Moldova,Available for final consumption,2553.455
+2021,Moldova,Available for final consumption,2821.691
+2022,Moldova,Available for final consumption,2494.541
+2023,Moldova,Available for final consumption,2383.419
+2014,Montenegro,Available for final consumption,656.071
+2015,Montenegro,Available for final consumption,701.411
+2016,Montenegro,Available for final consumption,728.851
+2017,Montenegro,Available for final consumption,774.512
+2018,Montenegro,Available for final consumption,779.19
+2019,Montenegro,Available for final consumption,801.767
+2020,Montenegro,Available for final consumption,725.175
+2021,Montenegro,Available for final consumption,822.721
+2022,Montenegro,Available for final consumption,774.457
+2023,Montenegro,Available for final consumption,782.558
+2014,North Macedonia,Available for final consumption,1852.559
+2015,North Macedonia,Available for final consumption,1876.317
+2016,North Macedonia,Available for final consumption,1991.517
+2017,North Macedonia,Available for final consumption,1953.843
+2018,North Macedonia,Available for final consumption,1859.119
+2019,North Macedonia,Available for final consumption,2010.84
+2020,North Macedonia,Available for final consumption,1871.381
+2021,North Macedonia,Available for final consumption,1996.959
+2022,North Macedonia,Available for final consumption,1834.944
+2023,North Macedonia,Available for final consumption,1825.601
+2014,Malta,Available for final consumption,444.634
+2015,Malta,Available for final consumption,460.763
+2016,Malta,Available for final consumption,460.995
+2017,Malta,Available for final consumption,502.636
+2018,Malta,Available for final consumption,526.411
+2019,Malta,Available for final consumption,561.266
+2020,Malta,Available for final consumption,506.308
+2021,Malta,Available for final consumption,541.176
+2022,Malta,Available for final consumption,603.711
+2023,Malta,Available for final consumption,603.968
+2014,Netherlands,Available for final consumption,54493.139
+2015,Netherlands,Available for final consumption,55148.791
+2016,Netherlands,Available for final consumption,56879.166
+2017,Netherlands,Available for final consumption,58252.973
+2018,Netherlands,Available for final consumption,57891.074
+2019,Netherlands,Available for final consumption,56261.399
+2020,Netherlands,Available for final consumption,55234.947
+2021,Netherlands,Available for final consumption,56427.581
+2022,Netherlands,Available for final consumption,49448.604
+2023,Netherlands,Available for final consumption,48885.526
+2014,Norway,Available for final consumption,22312.762
+2015,Norway,Available for final consumption,19283.12
+2016,Norway,Available for final consumption,21844.441
+2017,Norway,Available for final consumption,22616.488
+2018,Norway,Available for final consumption,23243.288
+2019,Norway,Available for final consumption,21690.978
+2020,Norway,Available for final consumption,21708.016
+2021,Norway,Available for final consumption,22705.233
+2022,Norway,Available for final consumption,19883.914
+2023,Norway,Available for final consumption,21579.525
+2014,Poland,Available for final consumption,64594.614
+2015,Poland,Available for final consumption,65169.272
+2016,Poland,Available for final consumption,70448.59
+2017,Poland,Available for final consumption,74777.832
+2018,Poland,Available for final consumption,79817.248
+2019,Poland,Available for final consumption,77736.811
+2020,Poland,Available for final consumption,77110.374
+2021,Poland,Available for final consumption,80489.871
+2022,Poland,Available for final consumption,76373.104
+2023,Poland,Available for final consumption,72769.881
+2014,Portugal,Available for final consumption,16792.127
+2015,Portugal,Available for final consumption,16851.213
+2016,Portugal,Available for final consumption,16726.957
+2017,Portugal,Available for final consumption,17006.818
+2018,Portugal,Available for final consumption,16934.037
+2019,Portugal,Available for final consumption,17583.942
+2020,Portugal,Available for final consumption,16394.328
+2021,Portugal,Available for final consumption,16941.445
+2022,Portugal,Available for final consumption,17165.994
+2023,Portugal,Available for final consumption,16989.314
+2014,Romania,Available for final consumption,22554.79
+2015,Romania,Available for final consumption,22810.177
+2016,Romania,Available for final consumption,23114.962
+2017,Romania,Available for final consumption,24376.389
+2018,Romania,Available for final consumption,24898.704
+2019,Romania,Available for final consumption,25070.541
+2020,Romania,Available for final consumption,25087.505
+2021,Romania,Available for final consumption,26741.952
+2022,Romania,Available for final consumption,24752.85
+2023,Romania,Available for final consumption,24245.955
+2014,Serbia,Available for final consumption,8196.104
+2015,Serbia,Available for final consumption,8491.943
+2016,Serbia,Available for final consumption,9070.432
+2017,Serbia,Available for final consumption,9192.546
+2018,Serbia,Available for final consumption,9180.281
+2019,Serbia,Available for final consumption,9067.392
+2020,Serbia,Available for final consumption,9597.427
+2021,Serbia,Available for final consumption,9946.707
+2022,Serbia,Available for final consumption,10106.619
+2023,Serbia,Available for final consumption,9866.427
+2014,Sweden,Available for final consumption,33374.963
+2015,Sweden,Available for final consumption,31886.901
+2016,Sweden,Available for final consumption,33925.915
+2017,Sweden,Available for final consumption,34843.426
+2018,Sweden,Available for final consumption,35180.444
+2019,Sweden,Available for final consumption,33644.527
+2020,Sweden,Available for final consumption,32730.778
+2021,Sweden,Available for final consumption,34270.172
+2022,Sweden,Available for final consumption,32436.247
+2023,Sweden,Available for final consumption,33238.638
+2014,Slovenia,Available for final consumption,4744.586
+2015,Slovenia,Available for final consumption,4851.549
+2016,Slovenia,Available for final consumption,5041.347
+2017,Slovenia,Available for final consumption,5117.377
+2018,Slovenia,Available for final consumption,5144.129
+2019,Slovenia,Available for final consumption,5059.945
+2020,Slovenia,Available for final consumption,4603.274
+2021,Slovenia,Available for final consumption,4932.087
+2022,Slovenia,Available for final consumption,4871.652
+2023,Slovenia,Available for final consumption,4616.458
+2014,Slovakia,Available for final consumption,10105.263
+2015,Slovakia,Available for final consumption,10610.539
+2016,Slovakia,Available for final consumption,10885.782
+2017,Slovakia,Available for final consumption,11672.43
+2018,Slovakia,Available for final consumption,11677.41
+2019,Slovakia,Available for final consumption,11270.79
+2020,Slovakia,Available for final consumption,10817.679
+2021,Slovakia,Available for final consumption,11807.45
+2022,Slovakia,Available for final consumption,11062.939
+2023,Slovakia,Available for final consumption,10331.478
+2014,Türkiye,Available for final consumption,86465.236
+2015,Türkiye,Available for final consumption,94140.532
+2016,Türkiye,Available for final consumption,98760.147
+2017,Türkiye,Available for final consumption,105864.359
+2018,Türkiye,Available for final consumption,103627.513
+2019,Türkiye,Available for final consumption,105068.665
+2020,Türkiye,Available for final consumption,106990.002
+2021,Türkiye,Available for final consumption,115858.58
+2022,Türkiye,Available for final consumption,112819.433
+2023,Türkiye,Available for final consumption,116493.899
+2014,Ukraine,Available for final consumption,62689.172
+2015,Ukraine,Available for final consumption,51487.995
+2016,Ukraine,Available for final consumption,52687.135
+2017,Ukraine,Available for final consumption,51607.814
+2018,Ukraine,Available for final consumption,52839.534
+2019,Ukraine,Available for final consumption,50060.736
+2020,Ukraine,Available for final consumption,48917.87
+2014,United Kingdom,Available for final consumption,122534.193
+2015,United Kingdom,Available for final consumption,128316.33
+2016,United Kingdom,Available for final consumption,130030.631
+2017,United Kingdom,Available for final consumption,129780.443
+2018,United Kingdom,Available for final consumption,130914.521
+2019,United Kingdom,Available for final consumption,127768.662
+2014,Kosovo*,Available for final consumption,1251.338
+2015,Kosovo*,Available for final consumption,1381.747
+2016,Kosovo*,Available for final consumption,1474.961
+2017,Kosovo*,Available for final consumption,1567.308
+2018,Kosovo*,Available for final consumption,1511.31
+2019,Kosovo*,Available for final consumption,1569.347
+2020,Kosovo*,Available for final consumption,1581.889
+2021,Kosovo*,Available for final consumption,1780.299
+2022,Kosovo*,Available for final consumption,1575.586
+2023,Kosovo*,Available for final consumption,1602.282
+2014,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),3280.229
+2015,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),3497.311
+2016,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),3727.257
+2017,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),3674.038
+2018,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),4401.825
+2019,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),4417.711
+2020,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),4342.021
+2021,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),4646.735
+2022,Bosnia and Herzegovina,Final energy consumption (Europe 2020-2030),4577.397
+2014,Ukraine,Final energy consumption (Europe 2020-2030),61633.202
+2015,Ukraine,Final energy consumption (Europe 2020-2030),51329.06
+2016,Ukraine,Final energy consumption (Europe 2020-2030),52890.891
+2017,Ukraine,Final energy consumption (Europe 2020-2030),50674.115
+2018,Ukraine,Final energy consumption (Europe 2020-2030),51872.991
+2019,Ukraine,Final energy consumption (Europe 2020-2030),49874.343
+2020,Ukraine,Final energy consumption (Europe 2020-2030),46784.392
+2014,United Kingdom,Final energy consumption (Europe 2020-2030),130116.871
+2015,United Kingdom,Final energy consumption (Europe 2020-2030),132625.375
+2016,United Kingdom,Final energy consumption (Europe 2020-2030),133767.863
+2017,United Kingdom,Final energy consumption (Europe 2020-2030),133591.515
+2018,United Kingdom,Final energy consumption (Europe 2020-2030),135131.932
+2019,United Kingdom,Final energy consumption (Europe 2020-2030),134114.842
+2014,Albania,Gross available energy,2375.779
+2015,Albania,Gross available energy,2218.649
+2016,Albania,Gross available energy,2305.608
+2017,Albania,Gross available energy,2412.268
+2018,Albania,Gross available energy,2398.096
+2019,Albania,Gross available energy,2386.443
+2020,Albania,Gross available energy,2214.765
+2021,Albania,Gross available energy,2327.108
+2022,Albania,Gross available energy,2239.331
+2023,Albania,Gross available energy,2234.261
+2014,Austria,Gross available energy,32938.236
+2015,Austria,Gross available energy,33741.875
+2016,Austria,Gross available energy,34209.391
+2017,Austria,Gross available energy,34824.866
+2018,Austria,Gross available energy,34028.126
+2019,Austria,Gross available energy,34782.999
+2020,Austria,Gross available energy,32352.795
+2021,Austria,Gross available energy,34233.94
+2022,Austria,Gross available energy,32609.858
+2023,Austria,Gross available energy,31617.416
+2014,Bosnia and Herzegovina,Gross available energy,6002.622
+2015,Bosnia and Herzegovina,Gross available energy,6183.064
+2016,Bosnia and Herzegovina,Gross available energy,6767.126
+2017,Bosnia and Herzegovina,Gross available energy,6754.465
+2018,Bosnia and Herzegovina,Gross available energy,7478.331
+2019,Bosnia and Herzegovina,Gross available energy,7230.302
+2020,Bosnia and Herzegovina,Gross available energy,7108.25
+2021,Bosnia and Herzegovina,Gross available energy,7374.079
+2022,Bosnia and Herzegovina,Gross available energy,7310.108
+2014,Belgium,Gross available energy,59003.446
+2015,Belgium,Gross available energy,59503.333
+2016,Belgium,Gross available energy,63147.197
+2017,Belgium,Gross available energy,63923.75
+2018,Belgium,Gross available energy,63993.509
+2019,Belgium,Gross available energy,64306.896
+2020,Belgium,Gross available energy,57817.817
+2021,Belgium,Gross available energy,64396.743
+2022,Belgium,Gross available energy,59946.16
+2023,Belgium,Gross available energy,56066.435
+2014,Bulgaria,Gross available energy,17955.616
+2015,Bulgaria,Gross available energy,18767.777
+2016,Bulgaria,Gross available energy,18371.373
+2017,Bulgaria,Gross available energy,19015.831
+2018,Bulgaria,Gross available energy,18943.773
+2019,Bulgaria,Gross available energy,18748.773
+2020,Bulgaria,Gross available energy,17798.37
+2021,Bulgaria,Gross available energy,19370.939
+2022,Bulgaria,Gross available energy,19634.641
+2023,Bulgaria,Gross available energy,17300.872
+2014,Cyprus,Gross available energy,2477.117
+2015,Cyprus,Gross available energy,2541.862
+2016,Cyprus,Gross available energy,2750.316
+2017,Cyprus,Gross available energy,2826.805
+2018,Cyprus,Gross available energy,2902.436
+2019,Cyprus,Gross available energy,2903.469
+2020,Cyprus,Gross available energy,2558.567
+2021,Cyprus,Gross available energy,2662.036
+2022,Cyprus,Gross available energy,2859.166
+2023,Cyprus,Gross available energy,2844.683
+2014,Czechia,Gross available energy,42011.844
+2015,Czechia,Gross available energy,42051.424
+2016,Czechia,Gross available energy,41659.073
+2017,Czechia,Gross available energy,43462.13
+2018,Czechia,Gross available energy,43638.288
+2019,Czechia,Gross available energy,42933.781
+2020,Czechia,Gross available energy,40319.049
+2021,Czechia,Gross available energy,42727.036
+2022,Czechia,Gross available energy,41848.072
+2023,Czechia,Gross available energy,38436.297
+2014,Germany,Gross available energy,318861.268
+2015,Germany,Gross available energy,320515.397
+2016,Germany,Gross available energy,322845.741
+2017,Germany,Gross available energy,324280.628
+2018,Germany,Gross available energy,316559.599
+2019,Germany,Gross available energy,309512.936
+2020,Germany,Gross available energy,286209.057
+2021,Germany,Gross available energy,297750.868
+2022,Germany,Gross available energy,283789.612
+2023,Germany,Gross available energy,257206.475
+2014,Denmark,Gross available energy,18076.906
+2015,Denmark,Gross available energy,18030.796
+2016,Denmark,Gross available energy,18415.07
+2017,Denmark,Gross available energy,18401.501
+2018,Denmark,Gross available energy,18490.751
+2019,Denmark,Gross available energy,18103.799
+2020,Denmark,Gross available energy,16583.171
+2021,Denmark,Gross available energy,17420.078
+2022,Denmark,Gross available energy,16910.149
+2023,Denmark,Gross available energy,16606.942
+2014,Estonia,Gross available energy,5900.275
+2015,Estonia,Gross available energy,5135.77
+2016,Estonia,Gross available energy,6292.83
+2017,Estonia,Gross available energy,6234.383
+2018,Estonia,Gross available energy,6024.017
+2019,Estonia,Gross available energy,5100.247
+2020,Estonia,Gross available energy,4790.147
+2021,Estonia,Gross available energy,4909.527
+2022,Estonia,Gross available energy,5163.309
+2023,Estonia,Gross available energy,4489.635
+2014,Greece,Gross available energy,25859.138
+2015,Greece,Gross available energy,25871.415
+2016,Greece,Gross available energy,25374.145
+2017,Greece,Gross available energy,26528.764
+2018,Greece,Gross available energy,26023.087
+2019,Greece,Gross available energy,26072.447
+2020,Greece,Gross available energy,22075.359
+2021,Greece,Gross available energy,23321.333
+2022,Greece,Gross available energy,23784.042
+2023,Greece,Gross available energy,22958.187
+2014,Spain,Gross available energy,126079.791
+2015,Spain,Gross available energy,130401.3
+2016,Spain,Gross available energy,131435.263
+2017,Spain,Gross available energy,137139.581
+2018,Spain,Gross available energy,137261.951
+2019,Spain,Gross available energy,134015.644
+2020,Spain,Gross available energy,118167.742
+2021,Spain,Gross available energy,125360.584
+2022,Spain,Gross available energy,128229.139
+2023,Spain,Gross available energy,124730.398
+2014,European Union - 27 countries (from 2020),Gross available energy,1468585.692
+2015,European Union - 27 countries (from 2020),Gross available energy,1488579.3
+2016,European Union - 27 countries (from 2020),Gross available energy,1502659.992
+2017,European Union - 27 countries (from 2020),Gross available energy,1534427.323
+2018,European Union - 27 countries (from 2020),Gross available energy,1525787.217
+2019,European Union - 27 countries (from 2020),Gross available energy,1501768.503
+2020,European Union - 27 countries (from 2020),Gross available energy,1379094.44
+2021,European Union - 27 countries (from 2020),Gross available energy,1462502.803
+2022,European Union - 27 countries (from 2020),Gross available energy,1396683.246
+2023,European Union - 27 countries (from 2020),Gross available energy,1339231.548
+2014,Finland,Gross available energy,34444.261
+2015,Finland,Gross available energy,32958.648
+2016,Finland,Gross available energy,34150.102
+2017,Finland,Gross available energy,34609.346
+2018,Finland,Gross available energy,35236.082
+2019,Finland,Gross available energy,34545.342
+2020,Finland,Gross available energy,32433.176
+2021,Finland,Gross available energy,33990.303
+2022,Finland,Gross available energy,32831.37
+2023,Finland,Gross available energy,33592.275
+2014,France,Gross available energy,257935.904
+2015,France,Gross available energy,262118.506
+2016,France,Gross available energy,257544.588
+2017,France,Gross available energy,257670.608
+2018,France,Gross available energy,256708.957
+2019,France,Gross available energy,253564.382
+2020,France,Gross available energy,224624.503
+2021,France,Gross available energy,243044.552
+2022,France,Gross available energy,221397.295
+2023,France,Gross available energy,225193.044
+2014,Georgia,Gross available energy,4522.765
+2015,Georgia,Gross available energy,4761.584
+2016,Georgia,Gross available energy,4920.516
+2017,Georgia,Gross available energy,4991.616
+2018,Georgia,Gross available energy,4958.421
+2019,Georgia,Gross available energy,5206.965
+2020,Georgia,Gross available energy,5002.132
+2021,Georgia,Gross available energy,5388.242
+2022,Georgia,Gross available energy,5869.844
+2014,Croatia,Gross available energy,8156.192
+2015,Croatia,Gross available energy,8508.426
+2016,Croatia,Gross available energy,8583.007
+2017,Croatia,Gross available energy,8888.239
+2018,Croatia,Gross available energy,8696.791
+2019,Croatia,Gross available energy,8814.045
+2020,Croatia,Gross available energy,8323.132
+2021,Croatia,Gross available energy,8718.183
+2022,Croatia,Gross available energy,8526.917
+2023,Croatia,Gross available energy,8865.412
+2014,Hungary,Gross available energy,23823.234
+2015,Hungary,Gross available energy,25203.244
+2016,Hungary,Gross available energy,25519.653
+2017,Hungary,Gross available energy,26656.45
+2018,Hungary,Gross available energy,26704.565
+2019,Hungary,Gross available energy,26705.486
+2020,Hungary,Gross available energy,26139.518
+2021,Hungary,Gross available energy,27375.503
+2022,Hungary,Gross available energy,25780.217
+2023,Hungary,Gross available energy,24297.481
+2014,Ireland,Gross available energy,13539.154
+2015,Ireland,Gross available energy,14327.451
+2016,Ireland,Gross available energy,15114.925
+2017,Ireland,Gross available energy,14993.371
+2018,Ireland,Gross available energy,15079.115
+2019,Ireland,Gross available energy,15125.182
+2020,Ireland,Gross available energy,13929.863
+2021,Ireland,Gross available energy,14445.256
+2022,Ireland,Gross available energy,14780.577
+2023,Ireland,Gross available energy,14517.212
+2014,Iceland,Gross available energy,6089.26
+2015,Iceland,Gross available energy,5870.848
+2016,Iceland,Gross available energy,5669.399
+2017,Iceland,Gross available energy,6029.918
+2018,Iceland,Gross available energy,6641.678
+2019,Iceland,Gross available energy,6401.699
+2020,Iceland,Gross available energy,6008.591
+2021,Iceland,Gross available energy,6079.483
+2022,Iceland,Gross available energy,6419.11
+2023,Iceland,Gross available energy,6480.006
+2014,Italy,Gross available energy,151758.638
+2015,Italy,Gross available energy,157629.547
+2016,Italy,Gross available energy,156490.332
+2017,Italy,Gross available energy,161815.269
+2018,Italy,Gross available energy,159710.888
+2019,Italy,Gross available energy,158086.438
+2020,Italy,Gross available energy,144034.889
+2021,Italy,Gross available energy,156581.767
+2022,Italy,Gross available energy,150530.89
+2023,Italy,Gross available energy,144436.969
+2014,Lithuania,Gross available energy,7071.11
+2015,Lithuania,Gross available energy,7260.107
+2016,Lithuania,Gross available energy,7518.281
+2017,Lithuania,Gross available energy,7868.512
+2018,Lithuania,Gross available energy,8034.248
+2019,Lithuania,Gross available energy,7996.646
+2020,Lithuania,Gross available energy,7814.577
+2021,Lithuania,Gross available energy,8136.44
+2022,Lithuania,Gross available energy,7286.529
+2023,Lithuania,Gross available energy,7320.3
+2014,Luxembourg,Gross available energy,4222.015
+2015,Luxembourg,Gross available energy,4178.238
+2016,Luxembourg,Gross available energy,4190.508
+2017,Luxembourg,Gross available energy,4330.389
+2018,Luxembourg,Gross available energy,4504.739
+2019,Luxembourg,Gross available energy,4545.653
+2020,Luxembourg,Gross available energy,3967.525
+2021,Luxembourg,Gross available energy,4221.718
+2022,Luxembourg,Gross available energy,3817.664
+2023,Luxembourg,Gross available energy,3690.139
+2014,Latvia,Gross available energy,4684.209
+2015,Latvia,Gross available energy,4634.173
+2016,Latvia,Gross available energy,4706.689
+2017,Latvia,Gross available energy,4811.298
+2018,Latvia,Gross available energy,4831.547
+2019,Latvia,Gross available energy,4940.251
+2020,Latvia,Gross available energy,4568.313
+2021,Latvia,Gross available energy,4787.767
+2022,Latvia,Gross available energy,4480.26
+2023,Latvia,Gross available energy,4420.189
+2014,Moldova,Gross available energy,2587.948
+2015,Moldova,Gross available energy,2602.359
+2016,Moldova,Gross available energy,2708.197
+2017,Moldova,Gross available energy,2850.473
+2018,Moldova,Gross available energy,2988.291
+2019,Moldova,Gross available energy,2839.87
+2020,Moldova,Gross available energy,2714.524
+2021,Moldova,Gross available energy,3008.81
+2022,Moldova,Gross available energy,2692.197
+2023,Moldova,Gross available energy,2572.784
+2014,Montenegro,Gross available energy,973.891
+2015,Montenegro,Gross available energy,1018.874
+2016,Montenegro,Gross available energy,989.693
+2017,Montenegro,Gross available energy,1037.122
+2018,Montenegro,Gross available energy,1074.297
+2019,Montenegro,Gross available energy,1112.236
+2020,Montenegro,Gross available energy,1022.524
+2021,Montenegro,Gross available energy,1092.894
+2022,Montenegro,Gross available energy,1061.592
+2023,Montenegro,Gross available energy,1098.517
+2014,North Macedonia,Gross available energy,2707.262
+2015,North Macedonia,Gross available energy,2661.084
+2016,North Macedonia,Gross available energy,2705.66
+2017,North Macedonia,Gross available energy,2763.277
+2018,North Macedonia,Gross available energy,2592.09
+2019,North Macedonia,Gross available energy,2861.947
+2020,North Macedonia,Gross available energy,2597.287
+2021,North Macedonia,Gross available energy,2676.973
+2022,North Macedonia,Gross available energy,2737.786
+2023,North Macedonia,Gross available energy,2700.708
+2014,Malta,Gross available energy,2115.647
+2015,Malta,Gross available energy,2294.528
+2016,Malta,Gross available energy,2470.445
+2017,Malta,Gross available energy,2959.315
+2018,Malta,Gross available energy,3053.813
+2019,Malta,Gross available energy,3163.634
+2020,Malta,Gross available energy,2946.878
+2021,Malta,Gross available energy,2738.727
+2022,Malta,Gross available energy,3042.331
+2023,Malta,Gross available energy,3195.004
+2014,Netherlands,Gross available energy,87933.618
+2015,Netherlands,Gross available energy,88424.119
+2016,Netherlands,Gross available energy,90052.035
+2017,Netherlands,Gross available energy,91106.202
+2018,Netherlands,Gross available energy,89196.442
+2019,Netherlands,Gross available energy,87637.839
+2020,Netherlands,Gross available energy,83781.874
+2021,Netherlands,Gross available energy,85697.389
+2022,Netherlands,Gross available energy,78817.06
+2023,Netherlands,Gross available energy,76019.164
+2014,Norway,Gross available energy,29657.399
+2015,Norway,Gross available energy,26744.974
+2016,Norway,Gross available energy,29443.202
+2017,Norway,Gross available energy,31056.633
+2018,Norway,Gross available energy,31169.176
+2019,Norway,Gross available energy,29689.63
+2020,Norway,Gross available energy,28985.176
+2021,Norway,Gross available energy,30008.808
+2022,Norway,Gross available energy,27152.459
+2023,Norway,Gross available energy,28841.738
+2014,Poland,Gross available energy,94969.964
+2015,Poland,Gross available energy,96061.225
+2016,Poland,Gross available energy,100765.123
+2017,Poland,Gross available energy,105492.599
+2018,Poland,Gross available energy,110246.626
+2019,Poland,Gross available energy,106347.823
+2020,Poland,Gross available energy,103261.157
+2021,Poland,Gross available energy,109937.849
+2022,Poland,Gross available energy,104734.817
+2023,Poland,Gross available energy,98485.159
+2014,Portugal,Gross available energy,23320.573
+2015,Portugal,Gross available energy,24230.2
+2016,Portugal,Gross available energy,24284.081
+2017,Portugal,Gross available energy,25419.887
+2018,Portugal,Gross available energy,24843.099
+2019,Portugal,Gross available energy,24857.905
+2020,Portugal,Gross available energy,22086.686
+2021,Portugal,Gross available energy,22203.331
+2022,Portugal,Gross available energy,23289.079
+2023,Portugal,Gross available energy,22676.551
+2014,Romania,Gross available energy,31665.428
+2015,Romania,Gross available energy,31917.548
+2016,Romania,Gross available energy,31826.369
+2017,Romania,Gross available energy,33562.493
+2018,Romania,Gross available energy,33610.239
+2019,Romania,Gross available energy,33239.401
+2020,Romania,Gross available energy,32264.95
+2021,Romania,Gross available energy,34324.984
+2022,Romania,Gross available energy,31672.4
+2023,Romania,Gross available energy,30792.411
+2014,Serbia,Gross available energy,13374.319
+2015,Serbia,Gross available energy,14833.155
+2016,Serbia,Gross available energy,15452.723
+2017,Serbia,Gross available energy,15763.122
+2018,Serbia,Gross available energy,15545.308
+2019,Serbia,Gross available energy,15433.619
+2020,Serbia,Gross available energy,15971.131
+2021,Serbia,Gross available energy,16250.547
+2022,Serbia,Gross available energy,16438.396
+2023,Serbia,Gross available energy,15959.112
+2014,Sweden,Gross available energy,51040.499
+2015,Sweden,Gross available energy,48852.398
+2016,Sweden,Gross available energy,51097.487
+2017,Sweden,Gross available energy,52650.353
+2018,Sweden,Gross available energy,52847.578
+2019,Sweden,Gross available energy,51765.146
+2020,Sweden,Gross available energy,47341.515
+2021,Sweden,Gross available energy,49717.886
+2022,Sweden,Gross available energy,47916.691
+2023,Sweden,Gross available energy,46953.988
+2014,Slovenia,Gross available energy,6610.783
+2015,Slovenia,Gross available energy,6569.516
+2016,Slovenia,Gross available energy,6842.152
+2017,Slovenia,Gross available energy,7071.42
+2018,Slovenia,Gross available energy,7082.868
+2019,Slovenia,Gross available energy,6934.077
+2020,Slovenia,Gross available energy,6457.192
+2021,Slovenia,Gross available energy,6635.211
+2022,Slovenia,Gross available energy,6378.396
+2023,Slovenia,Gross available energy,6079.932
+2014,Slovakia,Gross available energy,16130.826
+2015,Slovakia,Gross available energy,16850.477
+2016,Slovakia,Gross available energy,17003.816
+2017,Slovakia,Gross available energy,17883.333
+2018,Slovakia,Gross available energy,17534.083
+2019,Slovakia,Gross available energy,17018.262
+2020,Slovakia,Gross available energy,16446.618
+2021,Slovakia,Gross available energy,17792.853
+2022,Slovakia,Gross available energy,16626.605
+2023,Slovakia,Gross available energy,16438.978
+2014,Türkiye,Gross available energy,123324.482
+2015,Türkiye,Gross available energy,133215.061
+2016,Türkiye,Gross available energy,140526.971
+2017,Türkiye,Gross available energy,151296.854
+2018,Türkiye,Gross available energy,149051.401
+2019,Türkiye,Gross available energy,151040.534
+2020,Türkiye,Gross available energy,148608.858
+2021,Türkiye,Gross available energy,162358.518
+2022,Türkiye,Gross available energy,160103.683
+2023,Türkiye,Gross available energy,162909.177
+2014,Ukraine,Gross available energy,105889.728
+2015,Ukraine,Gross available energy,93112.957
+2016,Ukraine,Gross available energy,91863.089
+2017,Ukraine,Gross available energy,89767.891
+2018,Ukraine,Gross available energy,93850.613
+2019,Ukraine,Gross available energy,89641.456
+2020,Ukraine,Gross available energy,86582.654
+2014,United Kingdom,Gross available energy,190352.358
+2015,United Kingdom,Gross available energy,193599.379
+2016,United Kingdom,Gross available energy,191122.253
+2017,United Kingdom,Gross available energy,188732.575
+2018,United Kingdom,Gross available energy,188474.12
+2019,United Kingdom,Gross available energy,184967.77
+2014,Kosovo*,Gross available energy,2217.18
+2015,Kosovo*,Gross available energy,2524.38
+2016,Kosovo*,Gross available energy,2703.587
+2017,Kosovo*,Gross available energy,2568.576
+2018,Kosovo*,Gross available energy,2584.929
+2019,Kosovo*,Gross available energy,2668.905
+2020,Kosovo*,Gross available energy,2665.079
+2021,Kosovo*,Gross available energy,2887.992
+2022,Kosovo*,Gross available energy,2662.158
+2023,Kosovo*,Gross available energy,2552.322
+2014,Albania,Total energy supply,2347.117
+2015,Albania,Total energy supply,2196.15
+2016,Albania,Total energy supply,2264.689
+2017,Albania,Total energy supply,2367.99
+2018,Albania,Total energy supply,2359.535
+2019,Albania,Total energy supply,2333.185
+2020,Albania,Total energy supply,2166.847
+2021,Albania,Total energy supply,2281.204
+2022,Albania,Total energy supply,2171.506
+2023,Albania,Total energy supply,2143.888
+2014,Austria,Total energy supply,32270.341
+2015,Austria,Total energy supply,33027.98
+2016,Austria,Total energy supply,33429.285
+2017,Austria,Total energy supply,34070.053
+2018,Austria,Total energy supply,33184.811
+2019,Austria,Total energy supply,33808.518
+2020,Austria,Total energy supply,32020.989
+2021,Austria,Total energy supply,33810.93
+2022,Austria,Total energy supply,31985.355
+2023,Austria,Total energy supply,30742.694
+2014,Bosnia and Herzegovina,Total energy supply,5998.422
+2015,Bosnia and Herzegovina,Total energy supply,6176.764
+2016,Bosnia and Herzegovina,Total energy supply,6756.626
+2017,Bosnia and Herzegovina,Total energy supply,6743.965
+2018,Bosnia and Herzegovina,Total energy supply,7470.571
+2019,Bosnia and Herzegovina,Total energy supply,7220.822
+2020,Bosnia and Herzegovina,Total energy supply,7104.379
+2021,Bosnia and Herzegovina,Total energy supply,7359.713
+2022,Bosnia and Herzegovina,Total energy supply,7279.512
+2014,Belgium,Total energy supply,52292.301
+2015,Belgium,Total energy supply,52236.174
+2016,Belgium,Total energy supply,55044.315
+2017,Belgium,Total energy supply,54849.112
+2018,Belgium,Total energy supply,53025.133
+2019,Belgium,Total energy supply,54405.026
+2020,Belgium,Total energy supply,50242.955
+2021,Belgium,Total energy supply,55309.612
+2022,Belgium,Total energy supply,50548.546
+2023,Belgium,Total energy supply,47386.081
+2014,Bulgaria,Total energy supply,17704.737
+2015,Bulgaria,Total energy supply,18504.383
+2016,Bulgaria,Total energy supply,18081.015
+2017,Bulgaria,Total energy supply,18697.785
+2018,Bulgaria,Total energy supply,18605.594
+2019,Bulgaria,Total energy supply,18434.751
+2020,Bulgaria,Total energy supply,17576.063
+2021,Bulgaria,Total energy supply,19121.85
+2022,Bulgaria,Total energy supply,19347.406
+2023,Bulgaria,Total energy supply,16998.357
+2014,Cyprus,Total energy supply,2003.342
+2015,Cyprus,Total energy supply,2054.544
+2016,Cyprus,Total energy supply,2188.57
+2017,Cyprus,Total energy supply,2259.845
+2018,Cyprus,Total energy supply,2308.403
+2019,Cyprus,Total energy supply,2315.13
+2020,Cyprus,Total energy supply,2187.784
+2021,Cyprus,Total energy supply,2251.763
+2022,Cyprus,Total energy supply,2306.329
+2023,Cyprus,Total energy supply,2306.258
+2014,Czechia,Total energy supply,41719.164
+2015,Czechia,Total energy supply,41756.676
+2016,Czechia,Total energy supply,41342.607
+2017,Czechia,Total energy supply,43107.399
+2018,Czechia,Total energy supply,43228.743
+2019,Czechia,Total energy supply,42514.929
+2020,Czechia,Total energy supply,40205.287
+2021,Czechia,Total energy supply,42573.974
+2022,Czechia,Total energy supply,41583.316
+2023,Czechia,Total energy supply,38095.01
+2014,Germany,Total energy supply,308553.144
+2015,Germany,Total energy supply,310082.463
+2016,Germany,Total energy supply,311411.038
+2017,Germany,Total energy supply,312465.059
+2018,Germany,Total energy supply,305036.733
+2019,Germany,Total energy supply,298401.223
+2020,Germany,Total energy supply,280330.894
+2021,Germany,Total energy supply,290326.95
+2022,Germany,Total energy supply,273370.747
+2023,Germany,Total energy supply,246575.287
+2014,Denmark,Total energy supply,16439.028
+2015,Denmark,Total energy supply,16382.136
+2016,Denmark,Total energy supply,16798.14
+2017,Denmark,Total energy supply,16890.808
+2018,Denmark,Total energy supply,16873.874
+2019,Denmark,Total energy supply,16318.102
+2020,Denmark,Total energy supply,15693.913
+2021,Denmark,Total energy supply,16517.043
+2022,Denmark,Total energy supply,15644.23
+2023,Denmark,Total energy supply,15218.836
+2014,Estonia,Total energy supply,5538.862
+2015,Estonia,Total energy supply,4800.803
+2016,Estonia,Total energy supply,5978.413
+2017,Estonia,Total energy supply,5853.264
+2018,Estonia,Total energy supply,5648.229
+2019,Estonia,Total energy supply,4848.194
+2020,Estonia,Total energy supply,4472.653
+2021,Estonia,Total energy supply,4564.345
+2022,Estonia,Total energy supply,4796.355
+2023,Estonia,Total energy supply,4206.437
+2014,Greece,Total energy supply,23216.752
+2015,Greece,Total energy supply,23264.675
+2016,Greece,Total energy supply,22775.802
+2017,Greece,Total energy supply,23407.972
+2018,Greece,Total energy supply,22748.616
+2019,Greece,Total energy supply,22423.526
+2020,Greece,Total energy supply,20093.116
+2021,Greece,Total energy supply,20814.067
+2022,Greece,Total energy supply,20673.511
+2023,Greece,Total energy supply,19733.783
+2014,Spain,Total energy supply,114522.755
+2015,Spain,Total energy supply,118954.381
+2016,Spain,Total energy supply,119715.84
+2017,Spain,Total energy supply,125876.951
+2018,Spain,Total energy supply,125486.607
+2019,Spain,Total energy supply,121939.72
+2020,Spain,Total energy supply,110214.255
+2021,Spain,Total energy supply,116189.969
+2022,Spain,Total energy supply,115929.324
+2023,Spain,Total energy supply,112103.389
+2014,European Union - 27 countries (from 2020),Total energy supply,1395553.248
+2015,European Union - 27 countries (from 2020),Total energy supply,1414411.352
+2016,European Union - 27 countries (from 2020),Total energy supply,1424869.682
+2017,European Union - 27 countries (from 2020),Total energy supply,1453265.431
+2018,European Union - 27 countries (from 2020),Total energy supply,1441332.988
+2019,European Union - 27 countries (from 2020),Total energy supply,1416846.839
+2020,European Union - 27 countries (from 2020),Total energy supply,1322061.691
+2021,European Union - 27 countries (from 2020),Total energy supply,1399846.685
+2022,European Union - 27 countries (from 2020),Total energy supply,1319878.963
+2023,European Union - 27 countries (from 2020),Total energy supply,1261556.255
+2014,Finland,Total energy supply,33720.799
+2015,Finland,Total energy supply,32022.519
+2016,Finland,Total energy supply,33221.313
+2017,Finland,Total energy supply,33574.369
+2018,Finland,Total energy supply,34131.262
+2019,Finland,Total energy supply,33369.792
+2020,Finland,Total energy supply,31840.931
+2021,Finland,Total energy supply,33432.573
+2022,Finland,Total energy supply,31962.514
+2023,Finland,Total energy supply,32679.07
+2014,France,Total energy supply,250583.778
+2015,France,Total energy supply,254653.634
+2016,France,Total energy supply,250262.449
+2017,France,Total energy supply,250209.838
+2018,France,Total energy supply,248828.476
+2019,France,Total energy supply,245633.745
+2020,France,Total energy supply,221001.482
+2021,France,Total energy supply,239058.007
+2022,France,Total energy supply,215301.347
+2023,France,Total energy supply,218730.824
+2014,Georgia,Total energy supply,4440.201
+2015,Georgia,Total energy supply,4690.718
+2016,Georgia,Total energy supply,4847.596
+2017,Georgia,Total energy supply,4894.047
+2018,Georgia,Total energy supply,4851.522
+2019,Georgia,Total energy supply,5101.024
+2020,Georgia,Total energy supply,4941.465
+2021,Georgia,Total energy supply,5288.346
+2022,Georgia,Total energy supply,5730.543
+2014,Croatia,Total energy supply,8030.511
+2015,Croatia,Total energy supply,8387.91
+2016,Croatia,Total energy supply,8454.603
+2017,Croatia,Total energy supply,8734.018
+2018,Croatia,Total energy supply,8491.654
+2019,Croatia,Total energy supply,8589.513
+2020,Croatia,Total energy supply,8248.778
+2021,Croatia,Total energy supply,8596.096
+2022,Croatia,Total energy supply,8322.109
+2023,Croatia,Total energy supply,8642.862
+2014,Hungary,Total energy supply,23652.512
+2015,Hungary,Total energy supply,25028.528
+2016,Hungary,Total energy supply,25327.38
+2017,Hungary,Total energy supply,26432.948
+2018,Hungary,Total energy supply,26428.293
+2019,Hungary,Total energy supply,26426.11
+2020,Hungary,Total energy supply,26038.115
+2021,Hungary,Total energy supply,27252.37
+2022,Hungary,Total energy supply,25521.535
+2023,Hungary,Total energy supply,23998.617
+2014,Ireland,Total energy supply,12663.532
+2015,Ireland,Total energy supply,13329.239
+2016,Ireland,Total energy supply,14089.163
+2017,Ireland,Total energy supply,13821.424
+2018,Ireland,Total energy supply,13808.442
+2019,Ireland,Total energy supply,13872.552
+2020,Ireland,Total energy supply,13380.811
+2021,Ireland,Total energy supply,13833.394
+2022,Ireland,Total energy supply,13650.944
+2023,Ireland,Total energy supply,13242.136
+2014,Iceland,Total energy supply,5880.121
+2015,Iceland,Total energy supply,5598.487
+2016,Iceland,Total energy supply,5301.07
+2017,Iceland,Total energy supply,5580.871
+2018,Iceland,Total energy supply,6137.121
+2019,Iceland,Total energy supply,6017.862
+2020,Iceland,Total energy supply,5896.639
+2021,Iceland,Total energy supply,5879.216
+2022,Iceland,Total energy supply,6044.777
+2023,Iceland,Total energy supply,6053.741
+2014,Italy,Total energy supply,146769.878
+2015,Italy,Total energy supply,152563.263
+2016,Italy,Total energy supply,150981.786
+2017,Italy,Total energy supply,156093.486
+2018,Italy,Total energy supply,153154.765
+2019,Italy,Total energy supply,151464.153
+2020,Italy,Total energy supply,140100.485
+2021,Italy,Total energy supply,152431.5
+2022,Italy,Total energy supply,145220.387
+2023,Italy,Total energy supply,138564.382
+2014,Lithuania,Total energy supply,6982.737
+2015,Lithuania,Total energy supply,7102.764
+2016,Lithuania,Total energy supply,7260.136
+2017,Lithuania,Total energy supply,7587.93
+2018,Lithuania,Total energy supply,7707.013
+2019,Lithuania,Total energy supply,7678.847
+2020,Lithuania,Total energy supply,7578.481
+2021,Lithuania,Total energy supply,7886.226
+2022,Lithuania,Total energy supply,7030.581
+2023,Lithuania,Total energy supply,7091.64
+2014,Luxembourg,Total energy supply,3816.042
+2015,Luxembourg,Total energy supply,3720.585
+2016,Luxembourg,Total energy supply,3682.673
+2017,Luxembourg,Total energy supply,3756.18
+2018,Luxembourg,Total energy supply,3890.742
+2019,Luxembourg,Total energy supply,3945.022
+2020,Luxembourg,Total energy supply,3420.874
+2021,Luxembourg,Total energy supply,3598.085
+2022,Luxembourg,Total energy supply,3170.33
+2023,Luxembourg,Total energy supply,3092.4
+2014,Latvia,Total energy supply,4342.844
+2015,Latvia,Total energy supply,4272.07
+2016,Latvia,Total energy supply,4269.072
+2017,Latvia,Total energy supply,4411.164
+2018,Latvia,Total energy supply,4639.996
+2019,Latvia,Total energy supply,4490.786
+2020,Latvia,Total energy supply,4303.131
+2021,Latvia,Total energy supply,4502.201
+2022,Latvia,Total energy supply,4264.159
+2023,Latvia,Total energy supply,4249.825
+2014,Moldova,Total energy supply,2562.194
+2015,Moldova,Total energy supply,2577.636
+2016,Moldova,Total energy supply,2675.233
+2017,Moldova,Total energy supply,2802.061
+2018,Moldova,Total energy supply,2928.689
+2019,Moldova,Total energy supply,2787.043
+2020,Moldova,Total energy supply,2695.927
+2021,Moldova,Total energy supply,2964.279
+2022,Moldova,Total energy supply,2642.73
+2023,Moldova,Total energy supply,2523.967
+2014,Montenegro,Total energy supply,956.041
+2015,Montenegro,Total energy supply,999.975
+2016,Montenegro,Total energy supply,969.744
+2017,Montenegro,Total energy supply,1016.123
+2018,Montenegro,Total energy supply,1050.357
+2019,Montenegro,Total energy supply,1087.037
+2020,Montenegro,Total energy supply,1017.484
+2021,Montenegro,Total energy supply,1080.295
+2022,Montenegro,Total energy supply,1043.217
+2023,Montenegro,Total energy supply,1072.583
+2014,North Macedonia,Total energy supply,2694.823
+2015,North Macedonia,Total energy supply,2646.571
+2016,North Macedonia,Total energy supply,2689.8
+2017,North Macedonia,Total energy supply,2742.38
+2018,North Macedonia,Total energy supply,2568.515
+2019,North Macedonia,Total energy supply,2833.996
+2020,North Macedonia,Total energy supply,2581.634
+2021,North Macedonia,Total energy supply,2660.368
+2022,North Macedonia,Total energy supply,2710.925
+2023,North Macedonia,Total energy supply,2687.858
+2014,Malta,Total energy supply,780.25
+2015,Malta,Total energy supply,641.81
+2016,Malta,Total energy supply,594.334
+2017,Malta,Total energy supply,685.508
+2018,Malta,Total energy supply,689.847
+2019,Malta,Total energy supply,736.457
+2020,Malta,Total energy supply,701.898
+2021,Malta,Total energy supply,722.212
+2022,Malta,Total energy supply,791.517
+2023,Malta,Total energy supply,792.746
+2014,Netherlands,Total energy supply,71379.094
+2015,Netherlands,Total energy supply,72675.025
+2016,Netherlands,Total energy supply,74281.91
+2017,Netherlands,Total energy supply,75436.631
+2018,Netherlands,Total energy supply,73916.012
+2019,Netherlands,Total energy supply,72238.847
+2020,Netherlands,Total energy supply,69686.107
+2021,Netherlands,Total energy supply,71835.731
+2022,Netherlands,Total energy supply,64065.513
+2023,Netherlands,Total energy supply,61915.963
+2014,Norway,Total energy supply,28797.905
+2015,Norway,Total energy supply,25900.34
+2016,Norway,Total energy supply,28640.085
+2017,Norway,Total energy supply,30199.931
+2018,Norway,Total energy supply,30241.653
+2019,Norway,Total energy supply,28807.953
+2020,Norway,Total energy supply,28501.585
+2021,Norway,Total energy supply,29521.502
+2022,Norway,Total energy supply,26383.505
+2023,Norway,Total energy supply,28064.65
+2014,Poland,Total energy supply,94238.272
+2015,Poland,Total energy supply,95219.341
+2016,Poland,Total energy supply,99899.02
+2017,Poland,Total energy supply,104374.815
+2018,Poland,Total energy supply,108970.234
+2019,Poland,Total energy supply,104995.829
+2020,Poland,Total energy supply,102502.369
+2021,Poland,Total energy supply,109024.827
+2022,Poland,Total energy supply,103483.017
+2023,Poland,Total energy supply,97035.631
+2014,Portugal,Total energy supply,21749.038
+2015,Portugal,Total energy supply,22542.371
+2016,Portugal,Total energy supply,22371.881
+2017,Portugal,Total energy supply,23362.56
+2018,Portugal,Total energy supply,22670.814
+2019,Portugal,Total energy supply,22447.447
+2020,Portugal,Total energy supply,20877.003
+2021,Portugal,Total energy supply,20878.132
+2022,Portugal,Total energy supply,21196.935
+2023,Portugal,Total energy supply,20485.643
+2014,Romania,Total energy supply,31378.656
+2015,Romania,Total energy supply,31633.671
+2016,Romania,Total energy supply,31504.39
+2017,Romania,Total energy supply,33198.65
+2018,Romania,Total energy supply,33454.778
+2019,Romania,Total energy supply,33052.581
+2020,Romania,Total energy supply,32174.534
+2021,Romania,Total energy supply,34208.754
+2022,Romania,Total energy supply,31563.63
+2023,Romania,Total energy supply,30675.169
+2014,Serbia,Total energy supply,13287.293
+2015,Serbia,Total energy supply,14744.285
+2016,Serbia,Total energy supply,15313.003
+2017,Serbia,Total energy supply,15615.634
+2018,Serbia,Total energy supply,15387.931
+2019,Serbia,Total energy supply,15274.777
+2020,Serbia,Total energy supply,15875.521
+2021,Serbia,Total energy supply,16124.581
+2022,Serbia,Total energy supply,16280.771
+2023,Serbia,Total energy supply,15756.649
+2014,Sweden,Total energy supply,48581.33
+2015,Sweden,Total energy supply,46267.57
+2016,Sweden,Total energy supply,48251.609
+2017,Sweden,Total energy supply,49373.801
+2018,Sweden,Total energy supply,50095.498
+2019,Sweden,Total energy supply,48807.153
+2020,Sweden,Total energy supply,44419.328
+2021,Sweden,Total energy supply,46797.276
+2022,Sweden,Total energy supply,45200.662
+2023,Sweden,Total energy supply,44522.981
+2014,Slovenia,Total energy supply,6527.886
+2015,Slovenia,Total energy supply,6479.797
+2016,Slovenia,Total energy supply,6698.763
+2017,Slovenia,Total energy supply,6890.862
+2018,Slovenia,Total energy supply,6821.909
+2019,Slovenia,Total energy supply,6716.129
+2020,Slovenia,Total energy supply,6331.795
+2021,Slovenia,Total energy supply,6538.697
+2022,Slovenia,Total energy supply,6356.188
+2023,Slovenia,Total energy supply,6060.213
+2014,Slovakia,Total energy supply,16095.663
+2015,Slovakia,Total energy supply,16807.04
+2016,Slovakia,Total energy supply,16954.175
+2017,Slovakia,Total energy supply,17842.999
+2018,Slovakia,Total energy supply,17486.51
+2019,Slovakia,Total energy supply,16972.757
+2020,Slovakia,Total energy supply,16417.66
+2021,Slovakia,Total energy supply,17770.101
+2022,Slovakia,Total energy supply,16592.476
+2023,Slovakia,Total energy supply,16410.021
+2014,Türkiye,Total energy supply,119587.269
+2015,Türkiye,Total energy supply,128687.444
+2016,Türkiye,Total energy supply,136084.75
+2017,Türkiye,Total energy supply,146762.539
+2018,Türkiye,Total energy supply,144189.468
+2019,Türkiye,Total energy supply,145616.384
+2020,Türkiye,Total energy supply,146144.231
+2021,Türkiye,Total energy supply,159031.445
+2022,Türkiye,Total energy supply,155395.318
+2023,Türkiye,Total energy supply,157714.363
+2014,Ukraine,Total energy supply,105759.796
+2015,Ukraine,Total energy supply,92990.131
+2016,Ukraine,Total energy supply,91706.406
+2017,Ukraine,Total energy supply,89516.625
+2018,Ukraine,Total energy supply,93550.622
+2019,Ukraine,Total energy supply,89520.123
+2020,Ukraine,Total energy supply,86551.03
+2014,United Kingdom,Total energy supply,176632.008
+2015,United Kingdom,Total energy supply,180003.492
+2016,United Kingdom,Total energy supply,177369.306
+2017,United Kingdom,Total energy supply,174572.87
+2018,United Kingdom,Total energy supply,174024.392
+2019,United Kingdom,Total energy supply,170540.288
+2014,Kosovo*,Total energy supply,2215.126
+2015,Kosovo*,Total energy supply,2520.271
+2016,Kosovo*,Total energy supply,2699.478
+2017,Kosovo*,Total energy supply,2562.653
+2018,Kosovo*,Total energy supply,2581.86
+2019,Kosovo*,Total energy supply,2666.421
+2020,Kosovo*,Total energy supply,2662.957
+2021,Kosovo*,Total energy supply,2885.557
+2022,Kosovo*,Total energy supply,2658.464
+2023,Kosovo*,Total energy supply,2549.952
+2014,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),5936.371
+2015,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),6113.933
+2016,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),6691.273
+2017,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),6691.094
+2018,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),7379.331
+2019,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),7136.966
+2020,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),7003.141
+2021,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),7282.862
+2022,Bosnia and Herzegovina,Primary energy consumption (Europe 2020-2030),7215.018
+2014,Ukraine,Primary energy consumption (Europe 2020-2030),101645.14
+2015,Ukraine,Primary energy consumption (Europe 2020-2030),89143.423
+2016,Ukraine,Primary energy consumption (Europe 2020-2030),88340.405
+2017,Ukraine,Primary energy consumption (Europe 2020-2030),86700.196
+2018,Ukraine,Primary energy consumption (Europe 2020-2030),90686.528
+2019,Ukraine,Primary energy consumption (Europe 2020-2030),86153.549
+2020,Ukraine,Primary energy consumption (Europe 2020-2030),82804.234
+2014,United Kingdom,Primary energy consumption (Europe 2020-2030),180717.605
+2015,United Kingdom,Primary energy consumption (Europe 2020-2030),182604.775
+2016,United Kingdom,Primary energy consumption (Europe 2020-2030),179439.239
+2017,United Kingdom,Primary energy consumption (Europe 2020-2030),177271.285
+2018,United Kingdom,Primary energy consumption (Europe 2020-2030),177220.208
+2019,United Kingdom,Primary energy consumption (Europe 2020-2030),174296.992
